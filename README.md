@@ -1,6 +1,3 @@
-Absolutely! Below is an updated README file without the requirements.txt step and mentioning the use of datasets from TMDb Movie Ratings on Kaggle:
-
----
 
 # Movie Recommender System
 
@@ -25,8 +22,8 @@ To use the Movie Recommender System, follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/movie-recommender.git
-   cd movie-recommender
+   git clone https://github.com/Yampss/recommendersys.git
+   cd recommendersys
    ```
 
 
@@ -49,7 +46,7 @@ To use the Movie Recommender System, follow these simple steps:
 1. Clone the repository.
 2. Run the recommender using `python movierecommender.py`.
 
-**Note:** Ensure you have the required datasets from TMDb Movie Ratings on Kaggle (provide link or instructions on obtaining the datasets).
+**Note:** Ensure you have the required datasets from TMDb Movie Ratings on Kaggle (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv).
 
 ## Contributing
 
@@ -61,4 +58,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Make sure to replace "your-username" with your actual GitHub username and include the appropriate link or instructions for obtaining the required datasets from TMDb Movie Ratings on Kaggle.
+
